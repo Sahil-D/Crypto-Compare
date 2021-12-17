@@ -1,9 +1,8 @@
-<h1 align='center'>Crypto-Comparison Project</h1>
+<h1 align='center'>Crypto-Compare</h1>
 
-<h4>Created by Sahil Dawara as a part of Peakmind.in interview assessment</h4>
 <br>
-<p>
-<b>Problem : </b> To create a comparison platform for various crypto-coins ans also keep a record of previouly done analysis.
+<p align='center'>
+A comparison platform for various crypto-coins via charts which also keep a record of previouly done analysis by any particular user.
 </p>
 
 <h3 align='center'>Basic Flow</h3>
@@ -13,22 +12,9 @@
 </div>
 
 <h3 align='center'>
-<b>Demo : </b> https://awesome-carson-bf36d6.netlify.app
+<b>Demo : </b> https://cryptocmp.netlify.app/
 </h3>
 <br><br>
-<p>
-<b>3rd party API's involved : </b> Crypto-compare api ( for getting coin records for analysis ), Rapid Api ( for getting all latest cryptocoins )
-<br>
-<b>FrontEnd Technologies : </b> React JS
-<br>
-<b>Backend Technologies : </b> Node JS, Express JS
-<br>
-<b>Database : </b> MongoDB
-<br>
-<b>Extra Libraries : </b> Chart JS, Redux
-<br>
-<br>
-<b>Addons : </b> Redux, Pagination
-</p>
+
 
 
