@@ -12,7 +12,7 @@ A comparison platform for various crypto-coins via charts which also keep a reco
 </div>
 
 <h3 align='center'>
-<b>Demo : </b> https://cryptocmp.netlify.app/
+<b>Demo : </b> https://crpto-cmp.netlify.app/
 </h3>
 <br><br>
 
